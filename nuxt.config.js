@@ -22,6 +22,13 @@ export default {
     ]
   },
 
+  env: {
+    BLOG_API_URL: "https://api.cosmicjs.com/v2/",
+    BLOG_API_URL1: "https://api.cosmicjs.com/v1/",
+    BUCKET_NAME: "creativeasylum-production",
+    READ_ID: "LxM5GUU8pa58S3fy8IbgdyHYI8g47vxWBUpNX7vCNWKHzlqPNP"
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
